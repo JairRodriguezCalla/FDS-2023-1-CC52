@@ -13,3 +13,4 @@ a.	La metodología CRISP-DM es una guía sólida para el desarrollo de proyectos
 b.	Durante el ciclo de vida del proyecto, se aplicaron diferentes técnicas y herramientas de análisis de datos para explorar, limpiar, transformar y modelar los datos. Estas acciones condujeron a la generación de conocimiento valioso que contribuyó al logro de los objetivos establecidos.
 
 # Licencia de Uso
+El siguiente trabajo ha sido hecho y utilizado para el curso de Fundamentos de Data Science de la UPC.
