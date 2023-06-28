@@ -14,3 +14,5 @@ b.	Durante el ciclo de vida del proyecto, se aplicaron diferentes técnicas y he
 
 # Licencia de Uso
 El siguiente trabajo ha sido hecho y utilizado para el curso de Fundamentos de Data Science de la UPC.
+https://colab.research.google.com/drive/14taDjZpKgPRrL4qh-JWQ9UnrY4j6lX_F?usp=sharing
+
